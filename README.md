@@ -1,1 +1,21 @@
-# lmsgi-1dam-2627
+# Alumnado 1DAM_M 26-27
+
+- [Amores Colmenares, Sebastián](https://github.com/rubloTL)
+- [Bondarenko Mayboroda, Viktoriia](https://github.com/vbon840)
+- [Cano Suárez, Darío](https://github.com/DarioCanoSuarez) 
+- [Díaz Herrero, David](https://github.com/diaaazz) 
+- [Durán Schoendorff, Claudia](https://github.com/Claudiaduranschoendorff1410)
+- [Gómez Karpova, Iván](https://github.com/ivangmzk)
+- [Hartley Wilkins, Alex] ( https://github.com/MrWilkins-bytes )
+- [Medina Vargas, Jesús](https://github.com/JesusMedinaVargas)
+- [Mena Romero, Daniel (https://github.com/Zac78D)
+- [Molina Jiménez, Juan Diego](https://github.com/JuanDiegoMolina)
+- [Núñez Carrasco, Diana](https://github.com/DianaNunezCarrasco)
+- [Parejo Pomares, Pablo](https://github.com/PabloParPom)
+- [Puchi Araya, Vincenzo](https://github.com/VincenzoP08)
+- [Rengel Moreno, Pedro Jesús](https://github.com/prenmor2605)
+- [Rodríguez Galiano, Juan Rolando](https://github.com/juanrolandorg)
+- [Ruiz Merino, Mario](https://github.com/MarioRuizMerino)
+- [Salazar Gómez, José María](https://github.com/JoseMariSalazarGomez)
+- [Suárez Arreza, Eric](https://github.com/EricSuarezArreza)
+- [Zaim Wadghiri Amnad, Ismael Abdeslam](https://github.com/izaiamn854)
