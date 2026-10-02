@@ -1,0 +1,41 @@
+/* Todos los elementos h1 */
+h1 {
+    color: red;
+}
+
+/* Aplicamos estilos a la clase trabajador (div) */
+.trabajador {
+    background-color: rgb(182, 182, 182);
+}
+
+/* Aplicamos estilos a todas las etiquetas h2 */
+h2 {
+    text-align: center;
+}
+
+/* Aplica a todos descendientes h2 del primer (pseudoclase nth-of-type()) trabajador */
+.trabajador:nth-of-type(1) h2{
+    color: blue;
+}
+
+/* Aplica a todos descendientes h2 del último (pseudoclase last-of-type) trabajador */
+.trabajador:last-of-type h2{
+    color: green;
+}
+
+.datos-personales {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.estudios {
+    border: 5px double;
+    /* Esto equivale a:
+    border-width: 5px;
+    border-style: double;
+    */
+}
+
+.texto-subrayado {
+    text-decoration: underline;
+}
